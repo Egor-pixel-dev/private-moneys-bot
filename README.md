@@ -1,1 +1,0 @@
-# private-moneys-bot
